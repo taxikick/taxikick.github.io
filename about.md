@@ -3,28 +3,51 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+### What is Taxikick?
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+> Taxikick is a simple web app that helps Filipino commuters to report abusive taxi drivers.
 
-There are currently two themes built on Poole:
+### How Taxikick works?
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+> * Log your report [here](https://hapiben.typeform.com/to/agfRBf).
+> * Taxikick will forward your report to LTFRB.
+> * LTFRB will contact you about your report.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### Can I report via Twitter or Facebook?
 
-## Setup
+> No. All reports should be logged on Taxikick website.
 
-Some fun facts about the setup of this project include:
+### Do I need to sign up?
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+> No need.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+### What will happen after I reported to Taxikick?
+
+> Every day, Taxikick will send a consolidated email report to LTFRB. They will take the appropriate action on each complaint and they might contact you for further details. Please take note that LTFRB needs your cooperation by attending a hearing/s in some incidents.
+
+### Can I follow up up my report?
+
+> Of course. You may send a separate email at **complaint.ltfrb.govt@gmail.com** or text/call LTFRB’s hotline at **4592129/09214487777**.
+
+### Will Taxikick charge me any fees?
+
+> We are serious, Taxikick is FREE.
+
+### Who are the people behind Taxikick?
+
+> Two college friends. Ben and Jep.
+
+### How can I reach them?
+
+> You can always reach them at **hello@taxikick.com**.
+
+### I have feedback and awesome ideas!
+
+> Share it to us! Visit our community feedback page.
+
+### Is there anything I need to know?
+
+> Check out the public [FAQs presentation](https://www.scribd.com/doc/108955428/Frequently-Asked-Questions-on-LTFRB-Related-Complaints) of LTFRB.
+
 
 Thanks for reading!
