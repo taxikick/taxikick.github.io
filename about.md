@@ -43,7 +43,7 @@ title: About
 
 ### I have feedback and awesome ideas!
 
-> Share it to us! Visit our community feedback page.
+> Share it to us! Visit our [community feedback page](http://taxikick.uservoice.com/).
 
 ### Is there anything I need to know?
 

@@ -1,0 +1,17 @@
+.masthead-title a {
+    color: #f1c40f;
+    text-transform: lowercase;
+    font-family: 'Lily Script One', 'PT Sans', Helvetica, Arial, sans-serif;
+    font-size: 1.5em;
+}
+
+.masthead-title a:hover {
+    text-decoration: none;
+}
+
+.masthead-title small {
+    font-weight: bold;
+    color: #9a9a9a;
+    padding: 0 5px;
+    font-size: .7em;
+}
