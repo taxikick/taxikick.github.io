@@ -1,7 +1,7 @@
 .masthead {
     text-align: center;
     padding-top: 4rem;
-    padding-bottom: 9rem;
+    padding-bottom: 6rem;
     background: url('/public/images/bg.jpg');
     background-position: bottom;
     border-top: 2px solid #f1c40f;
@@ -14,7 +14,6 @@
 
 .masthead small {
     color: #fff;
-    /*font-style: italic;*/
 }
 
 .masthead-title a {
@@ -41,41 +40,20 @@
     background: orange;
 }
 
-.report-button-container {
-
+.report-button > a {
+    border: 1px solid #eee;
+    color: #ccc;
+    display: inline-block;
+    padding: 1rem;
+    text-align: center;
+    width: 15em;
+    border-radius: 4px;
+    font-weight: bold;
 }
 
-.report-button {
-
-
-    /*margin: 50px 0;
-    padding: 15px 30px;
-    font-size: 20px;*/
-    /*width: auto;*/
-    /*color: #fff;*/
-    /*background-color: transparent;*/
-    /*border-color: #cdbfe3;*/
-    /*line-height: 1.3333333;*/
-    /*border-radius: 6px;*/
-
-/*    position: absolute;
-    top:  .8rem;
-    right: 1rem;
-    display: block;
-    padding: .25rem .75rem;
-    color: #505050;
-    border-radius: .25rem;
-    cursor: pointer;
-    border: 1px solid #34495e;
-    color: #34495e;
-    font-size: .8em;*/
-}
-
-.report-button:hover {
-
-/*    background: #f5f5f5;
+.report-button > a:hover {
+    background-color: rgba(238, 238, 238, 0.1);
     text-decoration: none;
-    border-color: #34495e;*/
 }
 
 .post p {
